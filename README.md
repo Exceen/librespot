@@ -110,3 +110,5 @@ functionality.
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client.
 - [ansible-role-librespot](https://github.com/xMordax/ansible-role-librespot/tree/master) - Ansible role that will build, install and configure Librespot.
 
+## Patch
+https://github.com/Ulrar/hassio-addons/blob/master/raspotify/metadata-pipe.patch
